@@ -85,7 +85,8 @@ module.exports = {
     { addr: '0x667088b212ce3d06a1b553a7221e1fd19000d9af', name: 'WINGS', decimals: 18 },
     { addr: '0x4df812f6064def1e5e029f1ca858777cc98d2d81', name: 'XAUR', decimals: 8 },
     { addr: '0xb24754be79281553dc1adc160ddf5cd9b74361a4', name: 'XRL', decimals: 9 },
-    { addr: '0x949bed886c739f1a3273629b3320db0c5024c719', name: 'AMIS', decimals: 9 }
+    { addr: '0x949bed886c739f1a3273629b3320db0c5024c719', name: 'AMIS', decimals: 9 },
+    { addr: '0x202e295df742befa5e94e9123149360db9d9f2dc', name: 'NIH', decimals: 8 }
 
   ],
   defaultPair: { token: 'ANT', base: 'ETH' },
@@ -149,5 +150,6 @@ module.exports = {
     { token: 'XAUR', base: 'ETH' },
     { token: 'XRL', base: 'ETH' },
     { token: 'AMIS', base: 'ETH' },
+    { token: 'NIH', base: 'ETH' },
   ],
 };
